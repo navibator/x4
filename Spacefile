@@ -1,0 +1,10 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0.1
+icon: ./x4.png
+app_name: "x4"
+micros:
+  - name: wa-x4
+    src: ./wa-x4/
+    engine: react
+    path: wa-x4
+    primary: true
